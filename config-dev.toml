@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "GeenPeil Techblog"
-baseurl = "https://techblog.geenpeil.nl/"
+baseurl = "https://techblog-dev.geenpeil.nl/"
 theme = "geenpeil"
 copyright = "&copy; GeenPeil"
 
