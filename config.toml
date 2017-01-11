@@ -1,3 +1,5 @@
 languageCode = "en-us"
-title = "My New Hugo Site"
-baseurl = "http://example.org/"
+title = "GeenPeil Techblog"
+baseurl = "https://techblog.geenpeil.nl/"
+theme = "geenpeil"
+copyright = "&copy; GeenPeil"
