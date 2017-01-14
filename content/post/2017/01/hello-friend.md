@@ -6,7 +6,7 @@ author = "Geert-Johan Riemer"
 
 On this GeenPeil sub-site you'll find the latest information about the member consultation software and associated projects.
 
-This blog is meant for everyone interested in the technical side of GeenPeil. Posts will contain information about a variety of subject including:
+This blog is meant for everyone interested in the technical side of GeenPeil. Posts will contain information about a variety of subjects including:
 
 - Security and Privacy
 - Functional designs
