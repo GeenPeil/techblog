@@ -25,9 +25,9 @@ If you have seen the [previous GeenPeil project](https://github.com/GeenPeil/tek
 
 This is of course a very simplistic overview. It will be updated as the project progresses.
 
-#### I would like to participate
+#### Join the project
 
-Awesome! First of all, make sure you have access to the project and communication channels. Please mail me at `geertjohan@geenpeil.nl` and explain what your skills are and how you would like to contribute. I'll get back to you as soon as possible.
+Are you a developer willing to join the project? Awesome! First of all, make sure you have access to the project and communication channels. Please mail me at `geertjohan@geenpeil.nl` and explain what your skills are and how you would like to contribute. I'll get back to you as soon as possible.
 
 Once you're added to the developers team, go to [Projects](https://github.com/GeenPeil/stem/projects) to find yourself a suiting task to complete. Make sure the task is in a "TODO" column and not already assigned.
 
