@@ -13,6 +13,7 @@ One might wonder why we didn't start earlier with development. The party was ann
 #### Simple overview of components
  
 This projects consists of 4 main components:
+
 - `db`: The central database.
 - `rutte`: The back-end program exposing REST API's for two front-ends:
 - `arib`: The front-end for party members (member self-service, voting and discussion).
