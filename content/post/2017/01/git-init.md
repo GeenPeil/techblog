@@ -6,11 +6,11 @@ author = "Geert-Johan Riemer"
 
 `git init`, regularly marks the start of a new project. This project is not different when it comes to git and yesterday the [first commit](https://github.com/GeenPeil/stem/commit/e55e07e8ba676099fb3d643a224a31d5983c639d) was pushed to GitHub.
 
-One might wonder why we didn't start earlier with development. The party was announced on the 5th of December, so why wait? Well the answer is pretty simple: we first focused on the functional design of it all. We will share this functional design in a separate post at a later time.
+One might wonder why we didn't start earlier with development. The party was announced on the 5th of December, so why wait? Well the answer is pretty simple: we first focused on the functional design of it all. We will share this functional design in a separate post at a later time. For now, lets show some basic tech details.
 
 <!--more-->
  
-### Simple overview of components
+#### Simple overview of components
  
 This projects consists of 4 main components:
 - `db`: The central database.
@@ -20,11 +20,11 @@ This projects consists of 4 main components:
 
 If you have seen the [previous GeenPeil project](https://github.com/GeenPeil/teken), you will recognize a trend with component names.
 
-![Simple overview of components](git-init-tech-overview.png)
+![Simple overview of components](/images/git-init-tech-overview.png)
 
 This is of course a very simplistic overview. It will be updated as the project progresses.
 
-### I would like to participate
+#### I would like to participate
 
 Awesome! First of all, make sure you have access to the project and communication channels. Please mail me at `geertjohan@geenpeil.nl` and explain what your skills are and how you would like to contribute. I'll get back to you as soon as possible.
 
