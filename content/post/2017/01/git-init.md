@@ -4,9 +4,9 @@ title = "git init"
 author = "Geert-Johan Riemer"
 +++
 
-`git init`, regularly marks the start of a new project. This project is not different, yesterday the [first commit](https://github.com/GeenPeil/stem/commit/e55e07e8ba676099fb3d643a224a31d5983c639d) was pushed to GitHub.
+`git init`, regularly marks the start of a new project. This project is not different when it comes to git and yesterday the [first commit](https://github.com/GeenPeil/stem/commit/e55e07e8ba676099fb3d643a224a31d5983c639d) was pushed to GitHub.
 
-One might wonder why we didn't start earlier with development. The party was announced on the 5th of december, so why wait? Well the answer is pretty simple: we first focused on the functional design of it all. We will share this functional design in a separate post at a later time.
+One might wonder why we didn't start earlier with development. The party was announced on the 5th of December, so why wait? Well the answer is pretty simple: we first focused on the functional design of it all. We will share this functional design in a separate post at a later time.
 
 <!--more-->
  
@@ -34,6 +34,6 @@ Once you've found a task you are willing to take on it's important to assign you
 
 After someone else reviewed/approved your code it will be merged back into the master branch.
 
-If you are unable to or have no time to complete a task which you assigned to yourself be sure to put it back into the TODO list so someone else can pick it up. Perhaps you can add a comment pointing to a work-in-progress branch someone else can adopt.
+If you are unable to or have no time to complete a task which you assigned to yourself be sure to put it back into the "TODO" list so someone else can pick it up. Perhaps you can add a comment pointing to a work-in-progress branch someone else can adopt.
 
 Checkout the complete repository at [github.com/GeenPeil/stem](https://github.com/GeenPeil/stem).
